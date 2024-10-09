@@ -23,7 +23,7 @@ class MainActivity : ComponentActivity() {
                     Greeting(
                         name = "Android",
                         modifier = Modifier.padding(innerPadding)
-                        /*push test*/
+                        /*i dont really care*/
                     )
                 }
             }
